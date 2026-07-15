@@ -37,10 +37,6 @@ E-commerce web application for Fruits & Vegetables built using **React.js** and 
 ### 🏧 Secure Multi-Layer Authentication Framework for Cardless ATM Security
 Final Year Project with **QR Authentication, Reverse OTP, Hybrid PIN and Face Authentication**.
 
-### 📚 Student Management System
-Role-based Student Management System using **React.js, Node.js, Express.js and MySQL**.
-
-
 ---
 
 ## 🌐 Connect with Me
