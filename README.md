@@ -40,19 +40,6 @@ Final Year Project with **QR Authentication, Reverse OTP, Hybrid PIN and Face Au
 ### 📚 Student Management System
 Role-based Student Management System using **React.js, Node.js, Express.js and MySQL**.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RajaRajeswari-CSE&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRajeswari-CSE&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ---
 
