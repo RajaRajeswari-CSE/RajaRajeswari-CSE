@@ -45,11 +45,11 @@ Role-based Student Management System using **React.js, Node.js, Express.js and M
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RajaRajeswari-CSE&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RajaRajeswari-CSE&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRajeswari-CSE&layout=compact&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RajaRajeswari-CSE&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
