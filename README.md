@@ -66,9 +66,9 @@ Role-based Student Management System using **React.js, Node.js, Express.js and M
 
 ## 🌐 Connect with Me
 
-📧 Email: your-email@gmail.com
+📧 Email:rajarajeswarikumar58@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/your-linkedin/
+💼 LinkedIn: https://www.linkedin.com/in/rajarajeswari0/
 
 🐙 GitHub: https://github.com/RajaRajeswari-CSE
 
