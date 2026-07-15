@@ -54,14 +54,6 @@ Role-based Student Management System using **React.js, Node.js, Express.js and M
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=RajaRajeswari-CSE&theme=tokyonight"/>
-
-</p>
-
 ---
 
 ## 🌐 Connect with Me
